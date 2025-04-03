@@ -1,2 +1,0 @@
-.icon-container{display:flex;justify-content:center;overflow:hidden;position:relative;width:max-content}.shine-effect{animation:shine 2s linear infinite;background:linear-gradient(30deg,#fff0 20%,#ffffffe6 50%,#fff0 80%);height:100%;left:-100%;mix-blend-mode:overlay;position:absolute;top:0;width:180%}@keyframes shine{0%{opacity:.2;transform:translateX(-150%) rotate(30deg)}50%{opacity:.9;transform:translateX(0) rotate(30deg)}to{opacity:.2;transform:translateX(150%) rotate(30deg)}}
-/*# sourceMappingURL=main.7e44e0eb.css.map*/
