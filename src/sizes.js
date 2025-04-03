@@ -1,1 +1,1 @@
-export const iconSizes = [200, 150, 100, 50, 35, 20];
+export const iconSizes = [200, 150, 100, 50, 35, 20, 15];
