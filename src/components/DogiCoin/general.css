@@ -1,0 +1,7 @@
+.icon-container {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  width: max-content;
+}

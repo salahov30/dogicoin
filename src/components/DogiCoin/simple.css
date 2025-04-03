@@ -1,0 +1,25 @@
+.shine-effect {
+  position: absolute;
+  width: 180%;
+  height: 100%;
+  top: 0;
+  left: -100%;
+  background: linear-gradient(30deg, rgba(255, 255, 255, 0) 20%, rgba(255, 255, 255, 0.9) 50%, rgba(255, 255, 255, 0) 80%);
+  animation: shine 2s infinite linear;
+  mix-blend-mode: overlay;
+}
+
+@keyframes shine {
+  0% {
+    transform: translateX(-150%) rotate(30deg);
+    opacity: 0.2;
+  }
+  50% {
+    transform: translateX(0%) rotate(30deg);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translateX(150%) rotate(30deg);
+    opacity: 0.2;
+  }
+}
