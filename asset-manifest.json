@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dogicoin/static/css/main.7e44e0eb.css",
+    "main.js": "/dogicoin/static/js/main.2b1c0e52.js",
+    "index.html": "/dogicoin/index.html",
+    "main.7e44e0eb.css.map": "/dogicoin/static/css/main.7e44e0eb.css.map",
+    "main.2b1c0e52.js.map": "/dogicoin/static/js/main.2b1c0e52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e44e0eb.css",
+    "static/js/main.2b1c0e52.js"
+  ]
+}
